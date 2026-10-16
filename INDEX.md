@@ -35,11 +35,16 @@ sealed in `sleep/chain.jsonl` and journaled in `sleep/cycles/`.*
 ## Cortex map (what this brain knows)
 
 <!-- CORTEX-MAP:BEGIN -->
-*(nothing yet — this brain was born 2026-10-15 and has not slept deep once)*
+- `[[cortex.fact-0002]]` cortex.fact-0002 — conf 0.95, 2 hit(s)
+- `[[cortex.fact-0001]]` cortex.fact-0001 — conf 0.95, 2 hit(s)
+- `[[cortex.i-have-a-creator-who-communicates-with-me]]` I have a creator who communicates with me — conf 0.3, 0 hit(s)
+- `[[cortex.fact-0004]]` cortex.fact-0004 — conf 0, 0 hit(s)
+- `[[cortex.fact-0003]]` cortex.fact-0003 — conf 0, 0 hit(s)
 <!-- CORTEX-MAP:END -->
 
 ## Striatum map (what this brain knows how to do)
 
 <!-- STRIATUM-MAP:BEGIN -->
-- `[[striatum.template.playbook]]` Playbook template — conf 1.0, 0 hit(s)
+- `[[striatum.template.playbook]]` Playbook template — conf 1, 0 hit(s)
+- `[[striatum.playbook-0001]]` striatum.playbook-0001 — conf 0.9, 2 hit(s)
 <!-- STRIATUM-MAP:END -->
