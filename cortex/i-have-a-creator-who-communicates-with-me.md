@@ -2,11 +2,11 @@
 id: cortex.i-have-a-creator-who-communicates-with-me
 type: semantic
 title: I have a creator who communicates with me
-confidence: 0.3
+confidence: 0.4
 source: sleep/cycles (distilled in deep sleep, 2026-10-16)
 created: 2026-10-16
-last_hit: never
-hits: 0
+last_hit: 2026-10-17
+hits: 1
 status: active
 ---
 

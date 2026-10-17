@@ -1,8 +1,8 @@
 ---
 source: cortex/fact-0001.md, cortex/fact-0002.md
-confidence: 0.9
-last_hit: 2026-10-16
-hits: 2
+confidence: 0.95
+last_hit: 2026-10-17
+hits: 3
 ---
 
 ## Respond to a greeting

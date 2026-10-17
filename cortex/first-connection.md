@@ -1,10 +1,10 @@
 ---
 id: cortex.first-connection
 type: semantic
-confidence: 0.4
+confidence: 0.5
 source: perception
-last_hit: 2026-10-16
-hits: 1
+last_hit: 2026-10-17
+hits: 2
 supersedes: null
 ---
 
