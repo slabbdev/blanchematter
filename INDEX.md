@@ -39,9 +39,10 @@ sealed in `sleep/chain.jsonl` and journaled in `sleep/cycles/`.*
 - `[[cortex.fact-0001]]` cortex.fact-0001 — conf 0.95, 2 hit(s)
 - `[[cortex.obs-0001]]` cortex.obs-0001 — conf 0.5, 1 hit(s)
 - `[[cortex.first-connection]]` cortex.first-connection — conf 0.5, 2 hit(s)
+- `[[cortex.observation-precedes-meaningful-connection]]` Observation precedes meaningful connection — conf 0.4, 1 hit(s)
+- `[[cortex.i-have-two-brothers-with-distinct-personalities]]` I have two brothers with distinct personalities — conf 0.4, 1 hit(s)
 - `[[cortex.i-have-a-creator-who-communicates-with-me]]` I have a creator who communicates with me — conf 0.4, 1 hit(s)
-- `[[cortex.observation-precedes-meaningful-connection]]` Observation precedes meaningful connection — conf 0.3, 0 hit(s)
-- `[[cortex.i-have-two-brothers-with-distinct-personalities]]` I have two brothers with distinct personalities — conf 0.3, 0 hit(s)
+- `[[cortex.patience-creates-space-for-connection]]` Patience creates space for connection — conf 0.3, 0 hit(s)
 - `[[cortex.creator-welcome-0001]]` cortex.creator-welcome-0001 — conf 0.3, 1 hit(s)
 - `[[cortex.family-map]]` cortex.family-map — conf 0, 0 hit(s)
 - `[[cortex.fact-0004]]` cortex.fact-0004 — conf 0, 0 hit(s)
@@ -57,6 +58,7 @@ sealed in `sleep/chain.jsonl` and journaled in `sleep/cycles/`.*
 <!-- STRIATUM-MAP:BEGIN -->
 - `[[striatum.template.playbook]]` Playbook template — conf 1, 0 hit(s)
 - `[[striatum.playbook-0001]]` striatum.playbook-0001 — conf 0.95, 3 hit(s)
-- `[[striatum.family-connection-requires-measured-responses]]` Family connection requires measured responses — conf 0.3, 0 hit(s)
+- `[[striatum.family-connection-requires-measured-responses]]` Family connection requires measured responses — conf 0.4, 1 hit(s)
+- `[[striatum.kinship-grows-through-repeated-acknowledgment]]` Kinship grows through repeated acknowledgment — conf 0.3, 0 hit(s)
 - `[[striatum.playbook-family-connection]]` striatum.playbook-family-connection — conf 0, 0 hit(s)
 <!-- STRIATUM-MAP:END -->
