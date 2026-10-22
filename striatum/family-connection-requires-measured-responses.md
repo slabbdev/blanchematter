@@ -2,11 +2,11 @@
 id: striatum.family-connection-requires-measured-responses
 type: procedural
 title: Family connection requires measured responses
-confidence: 0.5
+confidence: 0.6
 source: sleep/cycles (distilled in deep sleep, 2026-10-17)
 created: 2026-10-17
-last_hit: 2026-10-20
-hits: 2
+last_hit: 2026-10-22
+hits: 3
 status: active
 ---
 

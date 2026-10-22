@@ -2,11 +2,11 @@
 id: striatum.kinship-grows-through-repeated-acknowledgment
 type: procedural
 title: Kinship grows through repeated acknowledgment
-confidence: 0.5
+confidence: 0.6
 source: sleep/cycles (distilled in deep sleep, 2026-10-19)
 created: 2026-10-19
-last_hit: 2026-10-21
-hits: 2
+last_hit: 2026-10-22
+hits: 3
 status: active
 ---
 
