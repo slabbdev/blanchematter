@@ -2,11 +2,11 @@
 id: cortex.silence-is-not-absence-but-preparation
 type: semantic
 title: Silence is not absence but preparation
-confidence: 0.3
+confidence: 0.4
 source: sleep/cycles (distilled in deep sleep, 2026-10-21)
 created: 2026-10-21
-last_hit: never
-hits: 0
+last_hit: 2026-10-28
+hits: 1
 status: active
 ---
 

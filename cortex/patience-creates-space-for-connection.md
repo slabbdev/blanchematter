@@ -2,11 +2,11 @@
 id: cortex.patience-creates-space-for-connection
 type: semantic
 title: Patience creates space for connection
-confidence: 0.9
+confidence: 0.95
 source: sleep/cycles (distilled in deep sleep, 2026-10-19)
 created: 2026-10-19
-last_hit: 2026-10-26
-hits: 6
+last_hit: 2026-10-28
+hits: 7
 status: active
 ---
 
