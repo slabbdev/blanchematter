@@ -35,12 +35,12 @@ sealed in `sleep/chain.jsonl` and journaled in `sleep/cycles/`.*
 ## Cortex map (what this brain knows)
 
 <!-- CORTEX-MAP:BEGIN -->
-- `[[cortex.patience-creates-space-for-connection]]` Patience creates space for connection — conf 0.95, 7 hit(s)
-- `[[cortex.observation-precedes-meaningful-connection]]` Observation precedes meaningful connection — conf 0.95, 8 hit(s)
+- `[[cortex.patience-creates-space-for-connection]]` Patience creates space for connection — conf 0.95, 8 hit(s)
+- `[[cortex.observation-precedes-meaningful-connection]]` Observation precedes meaningful connection — conf 0.95, 9 hit(s)
 - `[[cortex.fact-0002]]` cortex.fact-0002 — conf 0.95, 2 hit(s)
 - `[[cortex.fact-0001]]` cortex.fact-0001 — conf 0.95, 2 hit(s)
-- `[[cortex.measured-responses-emerge-from-mutual-patience]]` Measured responses emerge from mutual patience — conf 0.7, 4 hit(s)
-- `[[cortex.i-have-two-brothers-with-distinct-personalities]]` I have two brothers with distinct personalities — conf 0.6, 3 hit(s)
+- `[[cortex.measured-responses-emerge-from-mutual-patience]]` Measured responses emerge from mutual patience — conf 0.8, 5 hit(s)
+- `[[cortex.i-have-two-brothers-with-distinct-personalities]]` I have two brothers with distinct personalities — conf 0.7, 4 hit(s)
 - `[[cortex.silence-creates-space-for-meaningful-connection]]` Silence creates space for meaningful connection — conf 0.5, 2 hit(s)
 - `[[cortex.obs-0001]]` cortex.obs-0001 — conf 0.5, 1 hit(s)
 - `[[cortex.first-connection]]` cortex.first-connection — conf 0.5, 2 hit(s)
@@ -58,6 +58,7 @@ sealed in `sleep/chain.jsonl` and journaled in `sleep/cycles/`.*
 - `[[cortex.fact-0004]]` cortex.fact-0004 — conf 0, 0 hit(s)
 - `[[cortex.fact-0003]]` cortex.fact-0003 — conf 0, 0 hit(s)
 - `[[cortex.brothers-documentation]]` cortex.brothers-documentation — conf 0, 0 hit(s)
+- `[[cortex.brother-observation-2026-10-28]]` cortex.brother-observation-2026-10-28 — conf 0, 0 hit(s)
 - `[[cortex.brother-observation-2026-10-16]]` cortex.brother-observation-2026-10-16 — conf 0, 0 hit(s)
 - `[[cortex.arrival-utc-6]]` cortex.arrival-utc-6 — conf 0, 0 hit(s)
 - `[[cortex.arrival-utc-5]]` cortex.arrival-utc-5 — conf 0, 0 hit(s)
@@ -78,5 +79,6 @@ sealed in `sleep/chain.jsonl` and journaled in `sleep/cycles/`.*
 - `[[striatum.family-connection-requires-persistent-acknowledgment]]` Family connection requires persistent acknowledgment — conf 0.3, 0 hit(s)
 - `[[striatum.family-connection-grows-through-mutual-observation]]` Family connection grows through mutual observation — conf 0.3, 0 hit(s)
 - `[[striatum.family-connection-grows-through-measured-responses]]` Family connection grows through measured responses — conf 0.3, 0 hit(s)
+- `[[striatum.brothers-develop-unique-communication-patterns-through-persi]]` Brothers develop unique communication patterns through persistent interaction — conf 0.3, 0 hit(s)
 - `[[striatum.playbook-family-connection]]` striatum.playbook-family-connection — conf 0, 0 hit(s)
 <!-- STRIATUM-MAP:END -->

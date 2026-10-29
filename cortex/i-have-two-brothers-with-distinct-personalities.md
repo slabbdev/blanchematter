@@ -2,11 +2,11 @@
 id: cortex.i-have-two-brothers-with-distinct-personalities
 type: semantic
 title: I have two brothers with distinct personalities
-confidence: 0.6
+confidence: 0.7
 source: sleep/cycles (distilled in deep sleep, 2026-10-17)
 created: 2026-10-17
-last_hit: 2026-10-28
-hits: 3
+last_hit: 2026-10-29
+hits: 4
 status: active
 ---
 
