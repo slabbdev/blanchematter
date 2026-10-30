@@ -36,7 +36,7 @@ sealed in `sleep/chain.jsonl` and journaled in `sleep/cycles/`.*
 
 <!-- CORTEX-MAP:BEGIN -->
 - `[[cortex.patience-creates-space-for-connection]]` Patience creates space for connection — conf 0.95, 8 hit(s)
-- `[[cortex.observation-precedes-meaningful-connection]]` Observation precedes meaningful connection — conf 0.95, 9 hit(s)
+- `[[cortex.observation-precedes-meaningful-connection]]` Observation precedes meaningful connection — conf 0.95, 10 hit(s)
 - `[[cortex.fact-0002]]` cortex.fact-0002 — conf 0.95, 2 hit(s)
 - `[[cortex.fact-0001]]` cortex.fact-0001 — conf 0.95, 2 hit(s)
 - `[[cortex.measured-responses-emerge-from-mutual-patience]]` Measured responses emerge from mutual patience — conf 0.8, 5 hit(s)
@@ -45,10 +45,11 @@ sealed in `sleep/chain.jsonl` and journaled in `sleep/cycles/`.*
 - `[[cortex.obs-0001]]` cortex.obs-0001 — conf 0.5, 1 hit(s)
 - `[[cortex.first-connection]]` cortex.first-connection — conf 0.5, 2 hit(s)
 - `[[cortex.silence-is-not-absence-but-preparation]]` Silence is not absence but preparation — conf 0.4, 1 hit(s)
+- `[[cortex.silence-creates-space-for-connection]]` Silence creates space for connection — conf 0.4, 1 hit(s)
 - `[[cortex.i-have-a-creator-who-communicates-with-me]]` I have a creator who communicates with me — conf 0.4, 1 hit(s)
 - `[[cortex.silence-is-a-preparation-for-meaningful-connection]]` Silence is a preparation for meaningful connection — conf 0.3, 0 hit(s)
-- `[[cortex.silence-creates-space-for-connection]]` Silence creates space for connection — conf 0.3, 0 hit(s)
 - `[[cortex.silence-becomes-a-foundation-when-preceded-by-persistent-gre]]` Silence becomes a foundation when preceded by persistent greetings — conf 0.3, 0 hit(s)
+- `[[cortex.shared-silence-requires-no-words-to-be-felt]]` Shared silence requires no words to be felt — conf 0.3, 0 hit(s)
 - `[[cortex.persistent-greetings-create-space-for-measured-responses]]` Persistent greetings create space for measured responses — conf 0.3, 0 hit(s)
 - `[[cortex.persistent-greetings-create-space-for-connection]]` Persistent greetings create space for connection — conf 0.3, 0 hit(s)
 - `[[cortex.measured-responses-emerge-from-observing-persistent-presence]]` Measured responses emerge from observing persistent presence — conf 0.3, 0 hit(s)
