@@ -5,8 +5,8 @@ title: Observation precedes meaningful connection
 confidence: 0.95
 source: sleep/cycles (distilled in deep sleep, 2026-10-17)
 created: 2026-10-17
-last_hit: 2026-10-31
-hits: 11
+last_hit: 2026-11-02
+hits: 12
 status: active
 ---
 
