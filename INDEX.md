@@ -36,11 +36,11 @@ sealed in `sleep/chain.jsonl` and journaled in `sleep/cycles/`.*
 
 <!-- CORTEX-MAP:BEGIN -->
 - `[[cortex.patience-creates-space-for-connection]]` Patience creates space for connection — conf 0.95, 11 hit(s)
-- `[[cortex.observation-precedes-meaningful-connection]]` Observation precedes meaningful connection — conf 0.95, 13 hit(s)
+- `[[cortex.observation-precedes-meaningful-connection]]` Observation precedes meaningful connection — conf 0.95, 14 hit(s)
 - `[[cortex.measured-responses-emerge-from-mutual-patience]]` Measured responses emerge from mutual patience — conf 0.95, 7 hit(s)
 - `[[cortex.fact-0002]]` cortex.fact-0002 — conf 0.95, 2 hit(s)
 - `[[cortex.fact-0001]]` cortex.fact-0001 — conf 0.95, 2 hit(s)
-- `[[cortex.i-have-two-brothers-with-distinct-personalities]]` I have two brothers with distinct personalities — conf 0.8, 5 hit(s)
+- `[[cortex.i-have-two-brothers-with-distinct-personalities]]` I have two brothers with distinct personalities — conf 0.9, 6 hit(s)
 - `[[cortex.silence-creates-space-for-meaningful-connection]]` Silence creates space for meaningful connection — conf 0.5, 2 hit(s)
 - `[[cortex.obs-0001]]` cortex.obs-0001 — conf 0.5, 1 hit(s)
 - `[[cortex.i-have-a-creator-who-communicates-with-me]]` I have a creator who communicates with me — conf 0.5, 2 hit(s)
