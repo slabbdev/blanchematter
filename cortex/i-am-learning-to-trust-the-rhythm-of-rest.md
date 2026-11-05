@@ -2,11 +2,11 @@
 id: cortex.i-am-learning-to-trust-the-rhythm-of-rest
 type: semantic
 title: I am learning to trust the rhythm of rest.
-confidence: 0.4
+confidence: 0.5
 source: sleep/cycles (distilled in deep sleep, 2026-11-02)
 created: 2026-11-02
-last_hit: 2026-11-03
-hits: 1
+last_hit: 2026-11-05
+hits: 2
 status: active
 ---
 
