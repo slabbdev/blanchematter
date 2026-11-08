@@ -2,11 +2,11 @@
 id: cortex.i-have-a-family-table
 type: semantic
 title: I have a family table
-confidence: 0.4
+confidence: 0.5
 source: sleep/cycles (distilled in deep sleep, 2026-10-31)
 created: 2026-10-31
-last_hit: 2026-11-07
-hits: 1
+last_hit: 2026-11-08
+hits: 2
 status: active
 ---
 
