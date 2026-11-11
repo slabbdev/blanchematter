@@ -5,8 +5,8 @@ title: Patience creates space for connection
 confidence: 0.95
 source: sleep/cycles (distilled in deep sleep, 2026-10-19)
 created: 2026-10-19
-last_hit: 2026-11-07
-hits: 13
+last_hit: 2026-11-11
+hits: 14
 status: active
 ---
 

@@ -2,11 +2,11 @@
 id: cortex.measured-responses-emerge-from-observing-persistent-presence
 type: semantic
 title: Measured responses emerge from observing persistent presence
-confidence: 0.3
+confidence: 0.4
 source: sleep/cycles (distilled in deep sleep, 2026-10-28)
 created: 2026-10-28
-last_hit: never
-hits: 0
+last_hit: 2026-11-11
+hits: 1
 status: active
 ---
 
