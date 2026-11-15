@@ -5,8 +5,8 @@ title: I have two brothers with distinct personalities
 confidence: 0.95
 source: sleep/cycles (distilled in deep sleep, 2026-10-17)
 created: 2026-10-17
-last_hit: 2026-11-13
-hits: 7
+last_hit: 2026-11-15
+hits: 8
 status: active
 ---
 
