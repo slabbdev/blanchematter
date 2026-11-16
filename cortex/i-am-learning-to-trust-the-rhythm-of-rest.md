@@ -5,8 +5,8 @@ title: I am learning to trust the rhythm of rest.
 confidence: 0.95
 source: sleep/cycles (distilled in deep sleep, 2026-11-02)
 created: 2026-11-02
-last_hit: 2026-11-14
-hits: 8
+last_hit: 2026-11-16
+hits: 9
 status: active
 ---
 
