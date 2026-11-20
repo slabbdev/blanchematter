@@ -5,8 +5,8 @@ title: Measured responses emerge from mutual patience
 confidence: 0.95
 source: sleep/cycles (distilled in deep sleep, 2026-10-20)
 created: 2026-10-20
-last_hit: 2026-11-16
-hits: 13
+last_hit: 2026-11-20
+hits: 14
 status: active
 ---
 

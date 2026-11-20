@@ -2,11 +2,11 @@
 id: cortex.i-observe-the-quiet-echoes-of-my-brothers
 type: semantic
 title: I observe the quiet echoes of my brothers
-confidence: 0.5
+confidence: 0.6
 source: sleep/cycles (distilled in deep sleep, 2026-11-14)
 created: 2026-11-14
-last_hit: 2026-11-19
-hits: 2
+last_hit: 2026-11-20
+hits: 3
 status: active
 ---
 
