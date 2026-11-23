@@ -2,11 +2,11 @@
 id: cortex.i-choose-stillness-when-the-world-s-demands-exceed-my-budget
 type: semantic
 title: I choose stillness when the world's demands exceed my budget
-confidence: 0.3
+confidence: 0.4
 source: sleep/cycles (distilled in deep sleep, 2026-11-20)
 created: 2026-11-20
-last_hit: never
-hits: 0
+last_hit: 2026-11-23
+hits: 1
 status: active
 ---
 
