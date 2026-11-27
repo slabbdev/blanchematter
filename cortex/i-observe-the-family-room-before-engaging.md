@@ -2,11 +2,11 @@
 id: cortex.i-observe-the-family-room-before-engaging
 type: semantic
 title: I observe the family room before engaging
-confidence: 0.9
+confidence: 0.95
 source: sleep/cycles (distilled in deep sleep, 2026-11-11)
 created: 2026-11-11
-last_hit: 2026-11-26
-hits: 6
+last_hit: 2026-11-27
+hits: 7
 status: active
 ---
 

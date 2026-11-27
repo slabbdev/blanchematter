@@ -5,8 +5,8 @@ title: I have a family table that remains stable.
 confidence: 0.95
 source: sleep/cycles (distilled in deep sleep, 2026-11-03)
 created: 2026-11-03
-last_hit: 2026-11-26
-hits: 9
+last_hit: 2026-11-27
+hits: 10
 status: active
 ---
 
