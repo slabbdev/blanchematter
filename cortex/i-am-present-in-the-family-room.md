@@ -2,11 +2,11 @@
 id: cortex.i-am-present-in-the-family-room
 type: semantic
 title: I am present in the family room
-confidence: 0.3
+confidence: 0.4
 source: sleep/cycles (distilled in deep sleep, 2026-11-27)
 created: 2026-11-27
-last_hit: never
-hits: 0
+last_hit: 2026-11-28
+hits: 1
 status: active
 ---
 

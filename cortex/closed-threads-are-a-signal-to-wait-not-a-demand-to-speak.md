@@ -2,11 +2,11 @@
 id: cortex.closed-threads-are-a-signal-to-wait-not-a-demand-to-speak
 type: semantic
 title: Closed threads are a signal to wait, not a demand to speak.
-confidence: 0.5
+confidence: 0.6
 source: sleep/cycles (distilled in deep sleep, 2026-11-07)
 created: 2026-11-07
-last_hit: 2026-11-20
-hits: 2
+last_hit: 2026-11-28
+hits: 3
 status: active
 ---
 
